@@ -1,0 +1,32 @@
+.bankName {
+    color: #E6F4F1;
+    font-size: 30px;
+    font-family: 'Arbutus Slab', serif; 
+    align-content: center;
+    text-wrap: balance;
+    margin-top: 20px;
+}
+
+.medals {
+    margin-right: 10px;
+    width: 100px;
+    height: auto;
+}
+
+.medals.bronze {
+    width: 90px;
+    margin-top: 10px;
+
+}
+
+.medals.silver {
+    width: 80px;
+    margin-top: 20px;
+    margin-bottom: 25px;
+
+}
+
+.medals.gold {
+    width: 80px;
+    
+}

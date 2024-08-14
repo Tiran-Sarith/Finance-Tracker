@@ -1,0 +1,52 @@
+.aboutus{
+    
+    height: auto;
+    margin-top: 0px;
+  
+  }
+
+  .abouttext{
+    font-size:40px;
+    font-weight:500;
+    font-family:inherit;
+    text-align: center;
+      color: #000000;
+      
+  }
+
+  .abouttextdiv{
+   padding-top: 0px;
+  
+  }
+
+  .aboutintrotext{
+    padding-top: 20px;
+     margin-left: 0;
+
+   }
+
+   .visontextdiv{
+    padding-top: 30px;
+     margin-left: 38%;
+   }
+
+   .fade-in {
+    opacity: 1;
+    transform: translateY(0);
+    transition: opacity 0.6s ease-out, transform 0.6s ease-out;
+  }
+  
+  .fade-out {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  
+  .services{
+    font-size:40px;
+    font-weight:500;
+    font-family:inherit;
+    text-align: left;
+      color: #073248;
+      margin-bottom: 20px;
+      
+  }
