@@ -44,7 +44,8 @@ function App() {
                     </BrowserRouter>
                 </div>
                 <div>
-                    <Footer />
+                    <Footer/> 
+                    //dsdsd
                 </div>
             </div>
         </div>
